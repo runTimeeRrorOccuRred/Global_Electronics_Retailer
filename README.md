@@ -71,7 +71,7 @@ Multiple datasets (Sales, Customers, Products, Stores) were joined using lookup 
 ---
 ## 🔗 Key Files
 
-- 📊 [Global Electronic Retailer Excel File](Excel_Files/Global)
+- 📊 [Global Electronic Retailer Excel File](Excel_Files/Global_Electronics_Retailer.xlsx)
 
 ## 🖼 Dashboard Previews
 

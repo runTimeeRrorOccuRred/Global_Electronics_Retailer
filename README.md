@@ -1,7 +1,7 @@
 # 📊 Global Electronics Retailer – Excel Data Analysis Project
 
 ## 📌 Project Overview
-This project presents an end-to-end data analysis of a global electronics retailer using traditional Microsoft Excel (no Power BI, no SQL, no Python).
+This project presents an end-to-end data analysis of a global electronics retailer using traditional Microsoft Excel.
 
 The objective was to clean raw business data, create analytical metrics, and build insight-driven dashboards to understand customer behavior, revenue trends, store performance, and product profitability.
 
@@ -62,7 +62,7 @@ Multiple datasets (Sales, Customers, Products, Stores) were joined using lookup 
 - Revenue vs profit comparison
 - Offline vs online contribution
 
-**Key KPIs**
+**Key Metrices**
 - Total Revenue: $55.76M  
 - Total Profit: $32.66M  
 - Average Store Revenue (ASR): $0.96M  
